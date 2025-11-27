@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "cw5", "cw5\cw5.pyproj", "{979E5357-FE3E-4F0A-87D6-402D135AA2C4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_1", "CW5_1\CW5_1.pyproj", "{C0ECD910-7C9B-488A-984B-043AD652338A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_2", "CW5_2\CW5_2.pyproj", "{32CD207C-253D-4E19-A8E8-F5EC1BE1F97F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_3", "CW5_3\CW5_3.pyproj", "{DFA906DE-40B7-457D-AB88-06D8FC05152C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_4", "CW5_4\CW5_4.pyproj", "{7A4F3903-00B4-46C8-A9EA-65C0B8E61636}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_5", "CW5_5\CW5_5.pyproj", "{C5796BA0-5B96-4AA4-89BC-81AABC0B91E1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_6", "CW5_6\CW5_6.pyproj", "{6C0CECD5-B019-418E-94F6-CB602ED0D1D6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_7", "CW5_7\CW5_7.pyproj", "{E01FFA0A-3E9C-4EA2-8792-DD6EBB26F0F9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_8", "CW5_8\CW5_8.pyproj", "{4E6A84FB-12E3-45AF-AD58-52E836C2FE9D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CW5_9", "CW5_9\CW5_9.pyproj", "{4E22E15D-A658-4EB2-933A-002BCE49F2C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979E5357-FE3E-4F0A-87D6-402D135AA2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979E5357-FE3E-4F0A-87D6-402D135AA2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ECD910-7C9B-488A-984B-043AD652338A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ECD910-7C9B-488A-984B-043AD652338A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CD207C-253D-4E19-A8E8-F5EC1BE1F97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CD207C-253D-4E19-A8E8-F5EC1BE1F97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA906DE-40B7-457D-AB88-06D8FC05152C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA906DE-40B7-457D-AB88-06D8FC05152C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4F3903-00B4-46C8-A9EA-65C0B8E61636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4F3903-00B4-46C8-A9EA-65C0B8E61636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5796BA0-5B96-4AA4-89BC-81AABC0B91E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5796BA0-5B96-4AA4-89BC-81AABC0B91E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0CECD5-B019-418E-94F6-CB602ED0D1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0CECD5-B019-418E-94F6-CB602ED0D1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01FFA0A-3E9C-4EA2-8792-DD6EBB26F0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01FFA0A-3E9C-4EA2-8792-DD6EBB26F0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6A84FB-12E3-45AF-AD58-52E836C2FE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6A84FB-12E3-45AF-AD58-52E836C2FE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E22E15D-A658-4EB2-933A-002BCE49F2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E22E15D-A658-4EB2-933A-002BCE49F2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68231EEA-FD1C-46C6-8F3C-D7E3151967A4}
+	EndGlobalSection
+EndGlobal
